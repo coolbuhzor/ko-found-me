@@ -1,7 +1,7 @@
 {
   "name": "kofoundme",
   "version": "0.1.0",
-  "description": "easily find shared vision and complementary skill-sets to help you co-found your business ideas",
+  "description": "Easily find shared vision and complementary skill-sets to help you co-found your business ideas",
   "keywords": [
     "easily",
     "share",
@@ -80,16 +80,8 @@
     "eslint-plugin-react": "^7.20.0"
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   },
   "homepage": "https://coolbuhzor.github.io/ko-found-me"
 }
