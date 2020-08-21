@@ -12,7 +12,7 @@
     "co-found",
     "business"
   ],
-  "private": true,
+  "private": false,
   "author": {
     "name": "KoFoundMe",
     "email": "kofoundme@gmail.com"
