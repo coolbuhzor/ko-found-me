@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2326a9bdcb77844e3f449c2249f12098",
+    "revision": "b972789dae67950d6e3d56e59870afdc",
     "url": "/ko-found-me/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ko-found-me/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "1040e531b024bffff975",
+    "revision": "52343ff47f42e7a819ea",
     "url": "/ko-found-me/static/css/main.255a9523.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ko-found-me/static/js/2.bed95b5c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1040e531b024bffff975",
-    "url": "/ko-found-me/static/js/main.5a652d83.chunk.js"
+    "revision": "52343ff47f42e7a819ea",
+    "url": "/ko-found-me/static/js/main.8c801793.chunk.js"
   },
   {
     "revision": "abe734f1aa1843453579",
